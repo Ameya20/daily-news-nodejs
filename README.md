@@ -21,14 +21,24 @@ This will start the development server and open the application in your default 
 **Features**
 
 Displays news categories on initial page load.
+
 Allows sorting of news articles by most viewed, most recent, etc.
+
 Provides detailed information about each news article.
+
 Responsive design for better user experience on different devices.
+
 
 **Technologies Used**
 
 HTML
+
 CSS
+
 JavaScript (ES6+)
-Fetch API for making HTTP requests
+
 Bootstrap for styling
+
+NodeJs
+
+ExpressJs
